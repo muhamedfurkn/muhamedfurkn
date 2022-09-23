@@ -1,8 +1,7 @@
-# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7611F&width=600&lines=I'm+Mustafa%2C+a+full-time+Front+End+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)</div>  
-
+# <div align="center">
 
 <div align="center" style="display:flex">
-<img style="margin: 10px" src="https://media2.giphy.com/media/13FrpeVH09Zrb2/giphy.gif?cid=790b7611b5cd86b36beec19f14c3344b909f70fdfa82c16a&rid=giphy.gif&ct=g" width="45%" />  
+<img style="margin: 10px" src="" width="45%" />  
 </div>  
 
  
@@ -35,16 +34,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/mustafakaracuha" target="_blank">
+<a href="https://github.com/muhamedfurkn" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/muskaracuha" target="_blank">
+<a href="https://twitter.com/m_furkn1" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/mustafakaracuha" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/muskaracuha" target="_blank">
+<a href="https://instagram.com/muhamedfurkn" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -54,7 +53,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mustafakaracuha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=muhamedfurkn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
