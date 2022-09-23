@@ -1,7 +1,7 @@
 # <div align="center">
 
 <div align="center" style="display:flex">
-<img style="margin: 10px" src="https://giphy.com/embed/FEZjRFDOozLP4wAXoz" width="45%" />  
+<img style="margin: 10px" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="45%" />  
 
 </div>  
 
