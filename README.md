@@ -62,9 +62,9 @@
   
 
 <br/>  
-
+<div align="center">  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jozta6f4cy1g45pvv5qxnrs9j&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+</div>  
 
 
 <br />
