@@ -1,8 +1,8 @@
 # <div align="center">
 
 <div align="center" style="display:flex">
-<img style="margin: 10px" src="" width="45%" />  
-<iframe src="https://giphy.com/embed/FEZjRFDOozLP4wAXoz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rtp-play-imlove-FEZjRFDOozLP4wAXoz">via GIPHY</a></p>
+<img style="margin: 10px" src="https://giphy.com/embed/FEZjRFDOozLP4wAXoz" width="45%" />  
+
 </div>  
 
  
