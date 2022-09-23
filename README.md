@@ -63,7 +63,7 @@
 
 <br/>  
 <div align="center">  
- <img src="https://github-readme-stats.vercel.app/api?username=muhamedfurkn&show_icons=true&count_private=true&hide_border=true" align="center" />
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=jozta6f4cy1g45pvv5qxnrs9j&cover_image=true" align="center" />
 </div>  
 
 
