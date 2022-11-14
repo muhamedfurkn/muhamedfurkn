@@ -1,7 +1,7 @@
 # <div align="center">
 
 <div align="center" style="display:flex">
-<img style="margin: 10px" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="45%" />  
+<img style="margin: 10px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="45%" />  
 
 </div>  
 
