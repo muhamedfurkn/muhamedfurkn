@@ -1,7 +1,7 @@
 # <div align="center">
 
 <div align="center" style="display:flex">
-<img style="margin: 10px" src="https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw2Fi5YMxSRjB2focsRIrAEa&ust=1668510432622000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPjnhPTDrfsCFQAAAAAdAAAAABAS" width="45%" />  
+<img style="margin: 10px" src="https://www.google.com.tr/search?q=developer+gif&source=lnms&tbm=isch&sa=X&ved=2ahUKEwivtMftw637AhVcX_EDHUMQD_UQ_AUoAXoECAIQAw&biw=1920&bih=912&dpr=1#imgrc=sGO0QsnlUm-eqM" width="45%" />  
 
 </div>  
 
